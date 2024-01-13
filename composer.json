@@ -12,7 +12,8 @@
         "php": "^8.0",
         "ext-json": "*",
         "psr/log": "^1.1",
-        "ext-mbstring": "*"
+        "ext-mbstring": "*",
+        "nanoblocktech/luminova-framework": "dev-master"
     },
     "require-dev": {
         "phpmailer/phpmailer": "^6.8.1",
